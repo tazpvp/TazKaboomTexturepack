@@ -2,11 +2,25 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:ranks/adminbyrg.png",
+            "file": "minecraft:ranks/admin_part_001.png",
             "ascent": 8,
             "height": 8,
             "chars": [""]
-	},
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin_part_002.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin_part_003.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	    },
         {
             "type": "bitmap",
             "file": "minecraft:ranks/bluebyrg.png",
