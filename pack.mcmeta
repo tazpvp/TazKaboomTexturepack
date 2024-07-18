@@ -1,6 +1,10 @@
 {
-    "pack": {
-        "pack_format": 9,
-        "description": ["",{"text“:“TazKaboom“,“bold":true,"color":"#E54040"}]
+  "pack": {
+    "pack_format": 34,
+    "description": {
+      "text": "TazKaboom Resources",
+      "color": "#E54040",
+      "bold": true
     }
+  }
 }
